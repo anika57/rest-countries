@@ -41,8 +41,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://anika57.github.io/rest-countries/)
+- Solution URL: [https://your-solution-url.com](https://your-solution-url.com)
+- Live Site URL: [https://anika57.github.io/rest-countries/](https://anika57.github.io/rest-countries/)
 
 ## My process
 
@@ -88,8 +88,8 @@ Use this section to outline areas that you want to continue focusing on in futur
 
 ## Author
 
-- Website - [Add your name here](https://space-portfolio-anika.netlify.app/)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/anika57)
+- Website - [Anika](https://space-portfolio-anika.netlify.app/)
+- Frontend Mentor - [@anika57](https://www.frontendmentor.io/profile/anika57)
 
 
 
